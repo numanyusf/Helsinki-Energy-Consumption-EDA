@@ -5,10 +5,9 @@ This project focuses on analyzing energy consumption data of Helsinki using Pyth
 ## Table of Contents
 
 1. [Prerequisites](#prerequisites)
-2. [Usage](#usage)
-3. [Code Explanation](#code-explanation)
-4. [Results](#results)
-5. [Acknowledgments](#acknowledgments)
+2. [Code Explanation](#code-explanation)
+3. [Results](#results)
+4. [Acknowledgments](#acknowledgments)
 
 ## Prerequisites
 
